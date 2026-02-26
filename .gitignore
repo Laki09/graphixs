@@ -3,4 +3,10 @@ graphixs
 lib/
 
 # MacOS
-.DS_Store
+.DS_Stor
+
+# Vim
+*~
+.*.un~
+*.swp
+*.swoe
