@@ -1,11 +1,3 @@
-*
-!.gitignore
-!build.sh
-!Makefile
-!Readme.md
+build/**
+graphixs
 
-!include/**
-!src/**
-!data/**
-!lib/**
-!build/**
