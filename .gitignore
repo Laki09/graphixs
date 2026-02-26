@@ -1,0 +1,10 @@
+*
+!.gitignore
+!build.sh
+!include
+!src
+!data
+!lib
+!build
+!Makefile
+!Readme.md
