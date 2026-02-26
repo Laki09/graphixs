@@ -1,10 +1,11 @@
 *
 !.gitignore
 !build.sh
+!Makefile
+!Readme.md
+
 !include/**
 !src/**
 !data/**
 !lib/**
-!build/
-!Makefile
-!Readme.md
+!build/**
