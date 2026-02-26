@@ -1,3 +1,6 @@
 build/**
 graphixs
 lib/
+
+# MacOS
+.DS_Store
