@@ -3,7 +3,8 @@ graphixs
 lib/
 
 # MacOS
-.DS_Stor
+.DS_Store
+.Rhistory
 
 # Vim
 *~
